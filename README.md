@@ -12,5 +12,5 @@ This repository documents Task 01 of the Blockchain & crypto Intership at Future
 * Understood regulatory compliance through KYC.
 * Practiced live crypto chart analysis and portfolio tracking.
 ___________________________________________________________________________________________________
-*Submitted by:* Vaibhav pratap singh
-* *Date:* July 20, 2025
+*Submitted by:* Vaibhav pratap singh *
+*Date:* July 20, 2025
