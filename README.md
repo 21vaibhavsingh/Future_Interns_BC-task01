@@ -1,1 +1,8 @@
 # Future_Interns_BC-task01
+________________________________________________________________________________________________
+
+Task 01: Create Account on a Trusted Crypto Exchange
+________________________________________________________________________________________________
+This repository documents Task 01 of the Blockchain & crypto Intership at Future Inters.
+
+# Task
