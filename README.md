@@ -13,4 +13,4 @@ This repository documents Task 01 of the Blockchain & crypto Intership at Future
 * Practiced live crypto chart analysis and portfolio tracking.
 ___________________________________________________________________________________________________
 *Submitted by:* Vaibhav pratap singh
-*Date:* July 20, 2025
+* *Date:* July 20, 2025
